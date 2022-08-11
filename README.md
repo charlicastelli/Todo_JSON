@@ -1,16 +1,14 @@
 # tarefas_charli
 
-A new Flutter application.
+Lista tarefas - Udemy
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Lista de tarefas simples curso da Udemy
+- Usando JSON
 
-A few resources to get you started if this is your first Flutter project:
+### Images
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![tarefas](https://user-images.githubusercontent.com/80997263/184199278-f9ce294d-2a77-4da2-b1dd-dd8f037828de.jpeg)
+![apagando tarefas](https://user-images.githubusercontent.com/80997263/184199289-48f60c01-b357-4b26-a2a9-c1b14994a9cf.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
